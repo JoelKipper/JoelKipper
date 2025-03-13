@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Joel Kipper and I'm a Software Developer passionate about building innovative and scalable applications.</h2>
+<h2 align="left">Hey, my name is Joel Kipper! 👋</h2>
+<h3 align="left">I'm a Software Developer passionate about building innovative and scalable applications.</h3>
 
 ###
 
